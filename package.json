@@ -1,0 +1,16 @@
+{
+  "name": "number-to-roman",
+  "version": "1.0.0",
+  "description": "A simple application to convert number into roman numerical",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "author": "Shiva Adhikari",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2"
+  }
+}
